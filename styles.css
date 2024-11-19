@@ -32,3 +32,21 @@ h1{
     color: #F9FAF8;
     font-weight: bolder;
 }
+
+h2{ 
+    font-size: 40px;
+    color: #1F2937;
+    font-weight: bolder;
+}
+
+button{
+    border-radius: 10px;
+    border: none;
+    padding:5px;
+}
+button:hover{
+    color: #F9FAF8;
+    background-color:teal;
+    transition: 0.4s;
+}
+
