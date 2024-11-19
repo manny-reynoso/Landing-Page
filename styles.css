@@ -50,3 +50,9 @@ button:hover{
     transition: 0.4s;
 }
 
+.quote-paragraph{
+    font-size: 35px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: lighter;
+}
