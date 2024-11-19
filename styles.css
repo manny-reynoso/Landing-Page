@@ -12,3 +12,23 @@
 .footer {
     background-color:#1F2937 ;
 }
+
+.logo-text{
+    color:#F9FAF8;
+    font-size: 25px;
+    font-weight:bold;
+}
+
+.header a,
+.header p {
+
+    font-size: 16px;
+    color:#F9FAF8;
+    text-decoration: none;
+}
+
+h1{ 
+    font-size: 50px;
+    color: #F9FAF8;
+    font-weight: bolder;
+}
