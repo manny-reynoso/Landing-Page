@@ -1,5 +1,5 @@
 
-    /* Main Style */
+    /* Main or general Style */
 *{
     margin: 0;
     padding: 0;
@@ -7,7 +7,7 @@
     font-family: 'Roboto', sans-serif;
 
 }
-
+/* Specific styling */
 .header,
 .footer {
     background-color:#1F2937 ;
@@ -50,9 +50,11 @@ button:hover{
     transition: 0.4s;
 }
 
-.quote-paragraph{
+.Quote-paragraph{
     font-size: 35px;
     color: #1F2937;
     font-style: italic;
     font-weight: lighter;
 }
+
+
