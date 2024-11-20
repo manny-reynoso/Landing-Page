@@ -45,7 +45,7 @@ h2{
 button{
     border-radius: 10px;
     border: none;
-    padding:5px;
+    padding:10px;
 }
 button:hover{
     color: #F9FAF8;
@@ -85,4 +85,23 @@ ul{
 
 .logo-text{
     
+}
+
+.hero-text{
+    flex:1;
+    height:200px;
+    padding: 10px;
+}
+
+
+.hero-image {
+    flex:2;
+    display:flex;
+    justify-content: flex-end;
+    
+}
+img{
+    max-width: 70%;
+    height:auto;
+    padding:15px;
 }
