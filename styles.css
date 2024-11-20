@@ -8,9 +8,10 @@
 
 }
 /* Specific styling */
-.header,
-.footer {
+
+.hero-container{
     background-color:#1F2937 ;
+    color:#F9FAF8;
 }
 
 .logo-text{
@@ -18,6 +19,8 @@
     font-size: 25px;
     font-weight:bold;
 }
+
+
 
 .header a,
 .header p {
@@ -58,3 +61,28 @@ button:hover{
 }
 
 
+/* making divs flex */
+
+.hero-container{
+    display:flex;
+    flex-direction: column;
+}
+
+.header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 5px;
+}
+
+
+ul{
+    display: flex;
+    list-style: none;
+    gap:50px;
+    
+}
+
+.logo-text{
+    
+}
